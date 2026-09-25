@@ -1,0 +1,1 @@
+Do not mess with this file and Afterburner-Client.jar in this directory!

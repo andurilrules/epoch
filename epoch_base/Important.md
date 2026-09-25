@@ -1,0 +1,1 @@
+Do not mess with this file and epoch-1.0.40.jar in this directory!
